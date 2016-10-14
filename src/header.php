@@ -15,6 +15,7 @@
 	<?php wp_head(); ?> 
 </head>
 <body <?php body_class(); ?>>
+<div>Hello World</div>
 <div>
 <header id="header">
 	<!-- Top header bar -->
