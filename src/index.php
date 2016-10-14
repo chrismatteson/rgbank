@@ -1,7 +1,6 @@
 <?php
 get_header(); 
 get_template_part('weblizar','breadcrumbs'); ?>
-Hello World!
 <div class="container">
 	<div class="content_left">
 	<?php if ( have_posts()): 
